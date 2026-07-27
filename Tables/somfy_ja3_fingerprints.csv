@@ -1,0 +1,2 @@
+frame,time,src,dst,handshake_version,num_ciphers,num_extensions,ja3_string,ja3_hash
+440,1562160304.800862000,192.168.1.158,18.195.134.106,0x303,9,1,"771,61-53-60-47-183-149-182-148-255,13,,",046a35a24aa83eb9e0e61c49a46427b9

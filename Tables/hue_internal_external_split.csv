@@ -1,0 +1,4 @@
+traffic_scope,packet_count
+external (outbound to cloud),13194
+external (inbound from cloud),3341
+internal (LAN-to-LAN),386

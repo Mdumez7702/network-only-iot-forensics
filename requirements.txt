@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.5
+cryptography>=39.0
+openpyxl>=3.1
+tabulate>=0.9

@@ -1,0 +1,3 @@
+ip,traffic_class,packet_count
+255.255.255.255,broadcast,287
+224.0.0.1,multicast,1

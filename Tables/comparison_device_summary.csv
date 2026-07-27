@@ -1,0 +1,4 @@
+device,total_packets,dominant_protocol,burst_bin_pct,idle_bin_pct,session_heartbeat_endpoints,distinct_cloud_categories,distinct_ja3_fingerprints,reconstructed_events,high_confidence_events
+echo,398312,TCP,0.7,0.0,3,4,7,16,9
+hue,21664,UDP,1.8,42.8,6,1,0,65,7
+somfy,8276,TCP,6.9,13.2,0,3,1,39,3

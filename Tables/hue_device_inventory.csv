@@ -1,0 +1,8 @@
+mac,manufacturer,traffic_class,ip_addresses,packet_involvement
+00:17:88:75:b3:82,Philips Lighting BV,unicast,192.168.1.132,21659
+78:8a:20:43:93:d5,Ubiquiti Networks Inc.,unicast,"104.155.18.91,130.211.67.12,192.168.1.1,2.16.60.139,2.16.60.82,2.21.172.138,216.239.35.0,216.239.35.12,216.239.35.4,216.239.35.8,52.209.221.67,52.212.88.21,52.215.95.120,52.51.133.171",12611
+01:00:5e:7f:ff:fa,Unresolved / no OUI match,multicast,239.255.255.250,9048
+ff:ff:ff:ff:ff:ff,Unresolved / no OUI match,broadcast,,5
+80:e6:50:21:86:7c,"Apple, Inc.",unicast,,3
+74:da:38:d5:59:ef,Edimax Technology Co. Ltd.,unicast,,1
+9c:f4:8e:65:c4:4d,"Apple, Inc.",unicast,,1

@@ -1,0 +1,40 @@
+ip,org_lookup
+192.168.2.3,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""192.168.2.3 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"
+13.32.118.129,"AS16509 Amazon.com, Inc."
+52.46.136.77,"AS16509 Amazon.com, Inc."
+52.94.240.174,"AS16509 Amazon.com, Inc."
+13.32.118.138,"AS16509 Amazon.com, Inc."
+255.255.255.255,Unknown (lookup failed)
+192.168.2.1,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""192.168.2.1 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"
+192.168.2.255,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""192.168.2.255 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"
+224.0.0.251,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""224.0.0.251 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"
+52.46.129.41,"AS16509 Amazon.com, Inc."
+93.184.216.34,Unknown (lookup failed)
+13.32.99.94,"AS16509 Amazon.com, Inc."
+54.239.27.11,"AS16509 Amazon.com, Inc."
+176.32.98.203,"AS16509 Amazon.com, Inc."
+72.21.214.79,"AS16509 Amazon.com, Inc."

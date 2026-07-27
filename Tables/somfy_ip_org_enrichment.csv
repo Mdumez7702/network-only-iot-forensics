@@ -1,0 +1,33 @@
+ip,org_lookup
+192.168.1.158,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""192.168.1.158 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"
+18.195.134.106,"AS16509 Amazon.com, Inc."
+255.255.255.255,Unknown (lookup failed)
+192.168.4.2,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""192.168.4.2 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"
+192.168.1.1,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""192.168.1.1 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"
+78.46.102.180,AS24940 Hetzner Online GmbH
+151.80.19.218,AS16276 OVH SAS
+224.0.0.1,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""224.0.0.1 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"

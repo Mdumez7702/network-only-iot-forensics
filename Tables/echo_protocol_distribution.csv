@@ -1,0 +1,6 @@
+ip.proto_name,packet_count
+TCP,391982
+UDP,3445
+Other/L2,1664
+ICMP,1200
+IGMP,21

@@ -1,0 +1,6 @@
+classification,dns_record_count
+Amazon / AWS / Alexa,500
+mDNS / local service discovery,338
+Unclassified / other,110
+NTP pool,4
+Google,2

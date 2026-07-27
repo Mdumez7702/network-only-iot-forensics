@@ -1,0 +1,34 @@
+ip,org_lookup
+239.255.255.250,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""239.255.255.250 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"
+192.168.1.132,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""192.168.1.132 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"
+104.155.18.91,AS396982 Google LLC
+2.16.60.82,AS20940 Akamai International B.V.
+192.168.1.1,"{
+  ""status"": 400,
+  ""error"": {
+    ""title"": ""Invalid field 'org' requested for a bogon address"",
+    ""message"": ""192.168.1.1 is reserved for special use such as local networks and shouldn't appear on public internet. Further reading: https://ipinfo.io/bogon""
+  }
+}"
+2.16.60.139,AS20940 Akamai International B.V.
+52.215.95.120,"AS16509 Amazon.com, Inc."
+52.209.221.67,"AS16509 Amazon.com, Inc."
+130.211.67.12,AS396982 Google LLC
+216.239.35.12,AS15169 Google LLC
+216.239.35.8,AS15169 Google LLC
+216.239.35.4,AS15169 Google LLC
+216.239.35.0,AS15169 Google LLC
+52.51.133.171,"AS16509 Amazon.com, Inc."
+52.212.88.21,"AS16509 Amazon.com, Inc."

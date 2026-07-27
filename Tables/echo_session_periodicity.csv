@@ -1,0 +1,20 @@
+remote_endpoint,num_connections,mean_interval_s,cv,classification
+192.168.2.1,301,59.5,1.615,irregular connection pattern
+72.21.192.213,64,277.24,2.109,irregular connection pattern
+93.184.216.34,63,96.95,1.447,irregular connection pattern
+207.171.178.6,56,312.08,2.184,irregular connection pattern
+176.32.98.203,34,538.7,1.25,irregular connection pattern
+72.21.214.79,32,476.2,1.073,irregular connection pattern
+52.94.241.86,25,715.2,1.501,irregular connection pattern
+224.0.0.251,13,1639.55,3.173,irregular connection pattern
+13.32.118.248,11,1081.13,0.881,irregular connection pattern
+13.32.118.7,10,1201.24,0.687,irregular connection pattern
+13.32.118.30,10,901.07,0.544,irregular connection pattern
+13.32.118.117,8,1544.48,0.752,irregular connection pattern
+52.46.129.41,8,2050.93,0.789,irregular connection pattern
+52.94.228.52,4,5185.54,0.298,heartbeat/periodic (session-level)
+52.119.168.148,4,0.72,1.115,irregular connection pattern
+54.239.31.37,4,5714.91,0.764,irregular connection pattern
+54.239.29.194,4,5017.73,0.399,heartbeat/periodic (session-level)
+54.239.27.11,4,2118.13,1.407,irregular connection pattern
+72.21.207.87,4,5785.53,0.182,heartbeat/periodic (session-level)

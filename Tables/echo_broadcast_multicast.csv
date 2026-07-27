@@ -1,0 +1,7 @@
+ip,traffic_class,packet_count
+255.255.255.255,broadcast,1539
+192.168.2.255,broadcast,617
+224.0.0.251,multicast,512
+224.0.0.22,multicast,13
+192.168.69.255,broadcast,11
+224.0.0.2,multicast,3

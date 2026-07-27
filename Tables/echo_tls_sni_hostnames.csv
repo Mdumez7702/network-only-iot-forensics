@@ -1,0 +1,16 @@
+tls.handshake.extensions_server_name,handshake_count
+device-metrics-us.amazon.com,40
+arcus-uswest.amazon.com,8
+api.amazon.com,6
+api.amazonalexa.com,4
+dcape-na.amazon.com,3
+todo-ta-g7g.amazon.com,2
+device-messaging-na.amazon.com,2
+dfzhgyb333bi7.cloudfront.net,2
+tinytts.amazon.com,2
+softwareupdates.amazon.com,2
+d1s31zyz7dcc2d.cloudfront.net,2
+device-fingerprintdb-v1.s3.amazonaws.com,2
+firs-ta-g7g.amazon.com,1
+dp-rsm-prod.amazon.com,1
+rzy2c39fu3.execute-api.us-east-1.amazonaws.com,1

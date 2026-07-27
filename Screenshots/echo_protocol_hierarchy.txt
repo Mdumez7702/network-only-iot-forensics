@@ -1,0 +1,37 @@
+
+===================================================================
+Protocol Hierarchy Statistics
+Filter: 
+
+eth                                      frames:398312 bytes:375009484
+  ip                                     frames:396648 bytes:374817705
+    udp                                  frames:3445 bytes:776496
+      dhcp                               frames:1545 bytes:528892
+      data                               frames:628 bytes:54008
+      mdns                               frames:509 bytes:117518
+      dns                                frames:604 bytes:61614
+      ntp                                frames:157 bytes:14130
+      ssdp                               frames:2 bytes:334
+    igmp                                 frames:21 bytes:1070
+    tcp                                  frames:391982 bytes:373922539
+      http                               frames:355 bytes:104378
+        data-text-lines                  frames:104 bytes:47128
+          tcp.segments                   frames:61 bytes:28853
+        data                             frames:4 bytes:2454
+          tcp.segments                   frames:1 bytes:834
+      tls                                frames:32313 bytes:36957337
+        tcp.segments                     frames:22296 bytes:32379020
+          tls                            frames:21930 bytes:32145806
+      _ws.malformed                      frames:517 bytes:714726
+    icmp                                 frames:1200 bytes:117600
+  ipv6                                   frames:412 bytes:97188
+    udp                                  frames:358 bytes:92468
+      mdns                               frames:358 bytes:92468
+    icmpv6                               frames:54 bytes:4720
+  arp                                    frames:597 bytes:25296
+    text                                 frames:10 bytes:600
+  llc                                    frames:2 bytes:40
+    basicxid                             frames:2 bytes:40
+  eapol                                  frames:133 bytes:17255
+  data                                   frames:520 bytes:52000
+===================================================================

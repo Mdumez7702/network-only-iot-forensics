@@ -1,0 +1,8 @@
+dns.qry.name,query_count
+f.d.c.0.5.d.9.3.e.8.9.6.c.c.b.5.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa,126
+_sleep-proxy._udp.local,22
+_ipps._tcp.local,22
+_smb._tcp.local,22
+_ftp._tcp.local,22
+0.europe.pool.ntp.org,6
+somfykeys.opendoors.net,2

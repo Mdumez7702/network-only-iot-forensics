@@ -1,0 +1,18 @@
+mac,manufacturer,traffic_class,ip_addresses,packet_involvement
+5c:cf:7f:1e:76:54,Espressif Inc.,unicast,"0.0.0.0,192.168.1.158,192.168.4.1",6500
+78:8a:20:43:93:d5,Ubiquiti Networks Inc.,unicast,"151.80.19.218,18.195.134.106,192.168.1.1,192.168.4.2,78.46.102.180",6483
+00:1c:57:75:4f:98,"Cisco Systems, Inc",unicast,,1103
+00:1b:21:94:fa:9e,Intel Corporate,unicast,0.0.0.0,882
+ff:ff:ff:ff:ff:ff,Unresolved / no OUI match,broadcast,255.255.255.255,364
+33:33:00:00:00:fb,Unresolved / no OUI match,multicast,,353
+33:33:00:00:00:16,Unresolved / no OUI match,multicast,,332
+33:33:00:00:00:02,Unresolved / no OUI match,multicast,,141
+68:05:71:67:df:f2,"Samsung Electronics Co.,Ltd",unicast,0.0.0.0,136
+01:00:0c:cc:cc:cc,Unresolved / no OUI match,multicast,,85
+00:22:64:19:20:85,Hewlett Packard,unicast,,66
+33:33:ff:d5:0c:df,Unresolved / no OUI match,multicast,,43
+4c:ef:c0:27:56:1e,Amazon Technologies Inc.,unicast,,22
+c8:e7:d8:93:6b:c7,"Mercury Communication Technologies Co.,Ltd.",unicast,0.0.0.0,16
+00:11:32:8d:ff:e2,Synology Incorporated,unicast,,14
+33:33:ff:67:df:f2,Unresolved / no OUI match,multicast,,11
+01:00:5e:00:00:01,Unresolved / no OUI match,multicast,224.0.0.1,1

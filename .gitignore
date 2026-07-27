@@ -1,0 +1,25 @@
+# Raw per-packet extraction CSVs are large (the Echo one is ~77MB) and
+# fully regenerable via scripts/extract_full.sh -- see README.md.
+Results/*_full.csv
+
+# Third-party evidence data -- not redistributed, see README.md
+# "Obtaining the Dataset"
+pcaps/
+
+# Report, proposal, presentations, and related documentation live outside
+# this code repo (dissertation write-up, slide decks, self-review notes)
+Dissertation/
+Presentations/
+Report_Results/
+Methodology/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db

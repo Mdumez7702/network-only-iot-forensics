@@ -1,0 +1,5 @@
+classification,dns_record_count
+Unclassified / other,126
+mDNS / local service discovery,88
+NTP pool,12
+Somfy vendor cloud,4
